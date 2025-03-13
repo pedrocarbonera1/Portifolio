@@ -1,0 +1,22 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrocarbonera1/Portifolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrocarbonera1/Portifolio/issues"
+  },
+  "homepage": "https://github.com/pedrocarbonera1/Portifolio#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
